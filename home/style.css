@@ -1,0 +1,19 @@
+.carousel-item {
+    /* height: 70vh; */
+    width: 70vw;
+}
+
+.carousel-item img {
+    height: 85vh;
+    object-fit: contain;
+}
+
+.carousel-control-next-icon,.carousel-control-prev-icon {
+    background: black;
+    border: 2px solid white;
+    border-radius: 0 10px 10px 0;
+}
+
+.carousel-control-prev-icon {
+    border-radius: 10px 0 0 10px;
+}
